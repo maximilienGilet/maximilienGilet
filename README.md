@@ -2,6 +2,7 @@
 Développeur - Chef de projet
 
 <div style="display: inline-bloc;">
+<img src="https://img.icons8.com/color/48/000000/flutter.png" width="50" height="50" title="Flutter" alt="Flutter" class="animated fadeIn" style="animation-delay: .8s"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50" title="React" alt="React" class="animated fadeIn" style="animation-delay: .8s"/>
 <img src="https://img.icons8.com/color/50/000000/python.png" title="Python" alt="Python" class="animated fadeIn" style="animation-delay: .9s"/>
 <img src="https://img.icons8.com/color/50/000000/kubernetes.png" title="Kubernetes" alt="Kubernetes" class="animated fadeIn" style="animation-delay: 1s"/>
